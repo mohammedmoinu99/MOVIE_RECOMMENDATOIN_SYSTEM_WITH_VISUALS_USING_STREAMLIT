@@ -76,5 +76,5 @@ In this project we have introduced recommender system for movie recommendation. 
 # FutureScope: 
 The web of can be further modified music recommendation, Fashion recommendation, books recommendation, news recommendation , articles recommendation, videos recommendation & products recommendation.
 
-# SCREENSHOTS
+
 
